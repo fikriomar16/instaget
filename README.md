@@ -13,4 +13,4 @@ $ instaget <instagram-url>
 ![preview](https://github.com/fikriomar16/instaget/raw/master/preview.png)
 
 ## Result
-![result](https://github.com/fikriomar16/instaget/raw/master/result.png)
+![result](https://github.com/fikriomar16/instaget/raw/master/result.jpg)
